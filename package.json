@@ -1,0 +1,25 @@
+{
+  "name": "jukebox",
+  "version": "1.0.0",
+  "description": "Discord bot that plays music of your choice to your discord party",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "bot",
+    "discord.js",
+    "node",
+    "npm"
+  ],
+  "author": "Jonathan Raczkowski",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  },
+  "engines": {
+    "node": "17.2.0"
+  }
+}
